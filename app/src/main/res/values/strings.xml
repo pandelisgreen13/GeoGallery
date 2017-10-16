@@ -29,7 +29,7 @@
     <string name="most_visited">Συχνότερη Τοποθεσία:</string>
     <string name="langu_choice">Επιλογή Γλώσσας:</string>
     <string name="ergasia" translatable="false">Εξαμηνιαία Εργασία Στο Μάθημα:\nΑνάπτυξης Εφαρμογών Σε Κινητές Συσκευες.\n\nΠανεπιστήμιο Πειραία \nΤμήμα Πληροφορικής\n\nΕπιβλέπων Καθηγητής:\nΕυθύμιος Αλέπης</string>
-    <string name="students" translatable="false">Φοιτητές:\nΡούσσος Αρτέμης ΜΠΣΠ 15076\nΧασάπης Παντελής ΜΠΣΠ 15095</string>
+    <string name="students" translatable="false">Students UNIPI</string>
     <string name="results" >Συνολικές Φωτογραφίες</string>
 
 </resources>
