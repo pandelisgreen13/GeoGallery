@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">geoGallery</string>
+    <string name="about">Info</string>
+    <string name="action_settings">Settings</string>
+    <string name="map_activity">Location</string>
+    <string name="nav_name">Gallery</string>
+    <string name="temps">Statistics</string>
+    <string name="title_activity_maps">Location</string>
+    <string name="motionless">MotionLess</string>
+    <string name="onwalk">OnFoot</string>
+    <string name="incar">In Car</string>
+    <string name="delete">Deleted</string>
+    <string name="delete_photo">Delete</string>
+    <string name="Message">Are you sure you want to delete the photo?</string>
+    <string name="humi">Humidity</string>
+    <string name="no">No</string>
+    <string name="temp">Temperature</string>
+    <string name="yes">Yes</string>
+    <string name="about_location">About Locations:</string>
+    <string name="most_visited">Most Visited Location:</string>
+    <string name="langu_choice">Language Choice</string>
+    <string name="default_lang">Default</string>
+    <string name="english">English</string>
+    <string name="spanish">Spanish</string>
+    <string name="results">Total pictures</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/nav_name" />
+
+        <item
+            android:id="@+id/nav_maps"
+            android:icon="@android:drawable/ic_menu_mapmode"
+            android:title="@string/title_activity_maps" />
+
+        <item
+            android:id="@+id/nav_temp"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/temps" />
+
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/action_settings" />
+        <item
+            android:id="@+id/nav_info"
+            android:icon="@drawable/ic_menu_send"
+            android:title="@string/about" />
+
+
+    </group>
+
+
+</menu>

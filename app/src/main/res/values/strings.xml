@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">geoGallery</string>
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="map_activity">Τοποθεσία</string>
+    <string name="action_settings">Ρυθμίσεις</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="title_activity_maps">Τοποθεσία</string>
+    <string name="nav_name">Έκθεση</string>
+    <string name="temps">Στατιστικά</string>
+    <string name="about">Πληροφορίες</string>
+    <string name="motionless">Στάσιμος</string>
+    <string name="onwalk">Μικρότερη των 8km</string>
+    <string name="default_lang">Προεπιλογή</string>
+    <string name="english">Αγγλικά</string>
+    <string name="spanish">Ισπανικά</string>
+    <string name="incar">Μεγαλύτερη των 8km</string>
+    <string name="humi">Υγρασία</string>
+    <string name="temp">Θερμοκρασία</string>
+    <string name="Message">Είστε βέβαιοι ότι επιθυμείτε να διαγραφεί η φωτογραφια ?</string>
+    <string name="delete_photo">Διαγραφή Φωτογραφίας:</string>
+    <string name="yes">Ναι</string>
+    <string name="no">Όχι</string>
+    <string name="delete">Διεργράφει</string>
+    <string name="about_location">Σχετικά με τις Τοποθεσίες:</string>
+    <string name="most_visited">Συχνότερη Τοποθεσία:</string>
+    <string name="langu_choice">Επιλογή Γλώσσας:</string>
+    <string name="ergasia" translatable="false">Εξαμηνιαία Εργασία Στο Μάθημα:\nΑνάπτυξης Εφαρμογών Σε Κινητές Συσκευες.\n\nΠανεπιστήμιο Πειραία \nΤμήμα Πληροφορικής\n\nΕπιβλέπων Καθηγητής:\nΕυθύμιος Αλέπης</string>
+    <string name="students" translatable="false">Φοιτητές:\nΡούσσος Αρτέμης ΜΠΣΠ 15076\nΧασάπης Παντελής ΜΠΣΠ 15095</string>
+    <string name="results" >Συνολικές Φωτογραφίες</string>
+
+</resources>

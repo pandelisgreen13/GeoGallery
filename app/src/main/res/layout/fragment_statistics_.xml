@@ -1,0 +1,72 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="pandelis.ga_testnavig.Statistics"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <TextView
+        android:text="@string/most_visited"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView3"
+        android:textSize="25sp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/loc"
+        android:layout_weight="0.12"
+        android:textSize="20sp"
+        android:visibility="visible" />
+
+
+    <TextView
+        android:text="@string/results"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/sum"
+        android:textSize="25sp"
+        android:paddingBottom="20dp"/>
+
+    <TextView
+        android:text="@string/about_location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:textSize="25sp" />
+
+    <TextView
+        android:text="Με τα πόδια"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/onfoot"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:text="Ακίνητος"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/motionless"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:text="Αυτοκινητό"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/incar"
+        android:textSize="20sp"/>
+
+    <ProgressBar
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/progressBar3" />
+
+
+</LinearLayout>

@@ -1,0 +1,34 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ActivityImage">
+
+    <ImageButton
+        android:id="@+id/btn_close"
+        android:layout_width="?attr/actionBarSize"
+        android:layout_height="?attr/actionBarSize"
+        android:layout_gravity="top|right"
+        android:src="@drawable/ic_close_grey600_24dp"
+        android:scaleType="fitCenter"
+        style="@style/Widget.AppCompat.ActionButton"
+        />
+
+    <TextView
+        android:text="date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/date"
+        android:layout_gravity="bottom|left"
+        android:textColor="@color/primary_material_light_1"
+        android:paddingLeft="20dp"
+        android:paddingBottom="60dp"
+        android:textSize="20sp" />
+
+    <ImageView
+        android:id="@+id/SingleView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/black" />
+
+
+</FrameLayout>

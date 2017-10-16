@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">geoGallery</string>
+    <string name="about">Info</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="map_activity">Ubicación</string>
+    <string name="nav_name">Gallery</string>
+    <string name="temps">Estadística</string>
+    <string name="title_activity_maps">Ubicación</string>
+    <string name="motionless">Inmóvil</string>
+    <string name="onwalk">A pie</string>
+    <string name="incar">En el coche</string>
+    <string name="delete">Suprimido</string>
+    <string name="Message">Seguro que desea eliminar la foto ?</string>
+    <string name="delete_photo">Borrar</string>
+    <string name="humi">Humedad</string>
+    <string name="no">No</string>
+    <string name="temp">Temperatura</string>
+    <string name="yes">Sí</string>
+    <string name="about_location">Acerca de las ubicaciones:</string>
+    <string name="most_visited">Lugar más visitado:</string>
+    <string name="langu_choice">Elección del idioma</string>
+    <string name="default_lang">Defecto</string>
+    <string name="english">English</string>
+    <string name="spanish">Spanish</string>
+    <string name="results">Número total de imágenes</string>
+</resources>
